@@ -34,5 +34,5 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
         cat /proc/cpuinfo
-        cat uname -a
+        uname -a
         top -n 1
